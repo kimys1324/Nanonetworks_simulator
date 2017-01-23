@@ -1,0 +1,7 @@
+Test Case
+initialDistance : 146.45828727675473
+remainDistance : 136.92782059111218
+velocity : 0.19691046871162296
+movedDistance : 9.530466685642551
+5 symboltime length : 48400.0
+

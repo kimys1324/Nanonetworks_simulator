@@ -1,0 +1,6 @@
+
+symboltime=12000
+emitperiod=100
+amplitude=10000
+message=11111
+
